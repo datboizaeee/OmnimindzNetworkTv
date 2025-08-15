@@ -12,4 +12,7 @@ Premium IPTV Streaming Platform with futuristic design and advanced features.
 ## Live Site
 Visit: [omnimindznetworktv.com](https://omnimindznetworktv.com)
 
-© 2025 Omnimindz Productionz™
+© 2025 Omnimindz Productionz™robots.txt:User-agent: *
+Allow: /
+
+Sitemap: https://omnimindznetworktv.com/sitemap.xml
